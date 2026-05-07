@@ -26,7 +26,7 @@ A studio of practitioners shipping production AI for education and games — and
 ## How We Work
 
 ```mermaid
-flowchart LR
+flowchart TD
     A([💡 Your Idea]) --> B
 
     subgraph PLAN ["① Plan"]
@@ -105,6 +105,7 @@ We build in the open. Here are some of the tools and systems we've released.
 claude mcp add slides-maker --transport http \
   https://slides-maker.thrives.workers.dev/mcp/YOUR_TOKEN
 ```
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
