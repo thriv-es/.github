@@ -102,12 +102,6 @@ We build in the open. Here are some of the tools and systems we've released.
       <a href="https://github.com/thriv-es/slides-maker">→ thriv-es/slides-maker</a>
       <br/><br/>
       <img src="https://img.shields.io/badge/MCP-Claude%20integration-24292e?style=flat-square&logo=anthropic&logoColor=white" />
-
-```bash
-claude mcp add slides-maker --transport http \
-  https://slides-maker.thrives.workers.dev/mcp/YOUR_TOKEN
-```
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
