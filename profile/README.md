@@ -67,58 +67,6 @@ flowchart TD
 
 ---
 
-## Open Source Projects
-
-We build in the open. Here are some of the tools and systems we've released.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 domain-knowledge</h3>
-      <p>The open-source knowledge base powering our AI agents — structured docs covering company, brand, customers, and architecture. Built for transparency: any LLM, developer, or contributor knows exactly what they're working with.</p>
-      <a href="https://github.com/thriv-es/domain-knowledge">→ thriv-es/domain-knowledge</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/XML-knowledge%20base-6366f1?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 movers</h3>
-      <p>Shared UI scaffolding monorepo — Vite + shadcn/ui + TailwindCSS in a pnpm workspace. The design system foundation that keeps every interface consistent, accessible, and fast.</p>
-      <a href="https://github.com/thriv-es/movers">→ thriv-es/movers</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-Vite%20%2B%20shadcn%2Fui-3178C6?style=flat-square&logo=react" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ transcriber</h3>
-      <p>AI-powered audio call analysis with Hebrew language support. Transcribes, classifies, and surfaces insights from call recordings via a hybrid Cloudflare Workers + R2 architecture — single-file uploads from the browser, bulk processing via a Windows service.</p>
-      <a href="https://github.com/thriv-es/transcriber">→ thriv-es/transcriber</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Cloudflare-Workers%20%2B%20R2-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 slides-maker</h3>
-      <p>MCP server that lets you create, edit, and publish presentations just by chatting with Claude. Describe your deck in plain language — get a live shareable URL in seconds. Self-hostable on Cloudflare Workers.</p>
-      <a href="https://github.com/thriv-es/slides-maker">→ thriv-es/slides-maker</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MCP-Claude%20integration-24292e?style=flat-square&logo=anthropic&logoColor=white" />
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖼️ prompt-builder</h3>
-      <p>Modular AI prompt construction tool for image generation and infographics. Pick visual building blocks, watch the prompt assemble in real time, then copy straight to Midjourney, DALL·E, or Stable Diffusion.</p>
-      <a href="https://github.com/thriv-es/prompt-builder">→ thriv-es/prompt-builder</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/tool-image%20prompting-f59e0b?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <!-- future project slot -->
-    </td>
-  </tr>
-</table>
-
----
-
 ## Team
 
 Collaboratively built by [@evilUrge](https://github.com/evilUrge) and [@assafmashiah](https://github.com/assafmashiah), with gratitude to every contributor along the way.
