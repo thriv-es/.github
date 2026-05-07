@@ -121,7 +121,7 @@ We build in the open. Here are some of the tools and systems we've released.
 
 ## Team
 
-Collaboratively built by [@assafmashiah](https://github.com/assafmashiah) and [@evilUrge](https://github.com/evilUrge), with gratitude to every contributor along the way.
+Collaboratively built by [@evilUrge](https://github.com/evilUrge) and [@assafmashiah](https://github.com/assafmashiah), with gratitude to every contributor along the way.
 
 ---
 
