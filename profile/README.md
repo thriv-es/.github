@@ -1,20 +1,3 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/220400601?v=4" width="120" alt="thriv.es logo" style="border-radius: 50%" />
-
-# thriv.es
-
-**Where potential meets performance**
-
-[![Website](https://img.shields.io/badge/website-thriv.es-4f46e5?style=flat-square&logo=globe&logoColor=white)](https://thriv.es)
-[![GitHub Org](https://img.shields.io/badge/github-thriv--es-24292e?style=flat-square&logo=github)](https://github.com/thriv-es)
-[![Built on Cloudflare](https://img.shields.io/badge/built%20on-Cloudflare-F6821F?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-first-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-</div>
-
----
-
 ## What Is thriv.es?
 
 We build MVPs you can put in front of users.
