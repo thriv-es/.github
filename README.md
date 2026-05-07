@@ -27,26 +27,28 @@ A studio of practitioners shipping production AI for education and games — and
 
 ```mermaid
 flowchart TD
-    A([💡 Your Idea]) --> B
+    A([💡 Your Need]) --> PLAN
 
     subgraph PLAN ["① Plan"]
-        B[Discovery call\nScope · goals · constraints]
-        B --> C[Architecture design\nStack · AI strategy · data model]
-        C --> D[Roadmap\nPhases · milestones · success criteria]
+        direction LR
+        B[Discovery call\nScope · goals · constraints] --> C[Architecture design\nStack · AI strategy · data model] --> D[Roadmap\nPhases · milestones · success criteria]
     end
+
+    PLAN --> BUILD
 
     subgraph BUILD ["② Build"]
-        D --> E[Sprint 1\nCore infrastructure\n& AI integration]
-        E --> F[Sprint 2\nProduct features\n& user flows]
-        F --> G[Sprint 3\nPolish · testing\n· deployment]
+        direction LR
+        E[Sprint 1\nCore infrastructure\n& AI integration] --> F[Sprint 2\nProduct features\n& user flows] --> G[Sprint 3\nPolish · testing\n· deployment]
     end
+
+    BUILD --> SHIP
 
     subgraph SHIP ["③ Ship"]
-        G --> H[MVP in production\nReal users · real feedback]
-        H --> I[Team handoff &\ntraining]
+        direction LR
+        H[MVP in production\nReal users · real feedback] --> I[Team handoff &\ntraining]
     end
 
-    I --> J([🚀 Your team owns it])
+    SHIP --> J([🎯 Your team owns it, your product Thrives!])
 
     style A fill:#4f46e5,color:#fff
     style J fill:#16a34a,color:#fff
