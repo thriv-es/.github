@@ -105,7 +105,6 @@ We build in the open. Here are some of the tools and systems we've released.
 claude mcp add slides-maker --transport http \
   https://slides-maker.thrives.workers.dev/mcp/YOUR_TOKEN
 ```
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
