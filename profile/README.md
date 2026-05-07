@@ -53,11 +53,3 @@ flowchart TD
 ## Team
 
 Collaboratively built by [@evilUrge](https://github.com/evilUrge) and [@assafmashiah](https://github.com/assafmashiah), with gratitude to every contributor along the way.
-
----
-
-<div align="center">
-
-**[thriv.es](https://thriv.es)** — *Where potential meets performance*
-
-</div>
